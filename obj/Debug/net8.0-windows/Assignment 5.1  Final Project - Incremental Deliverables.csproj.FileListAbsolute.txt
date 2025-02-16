@@ -1,0 +1,16 @@
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\bin\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.exe
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\bin\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.deps.json
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\bin\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.runtimeconfig.json
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\bin\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.dll
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\bin\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.pdb
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\obj\Debug\net8.0-windows\Assignment_5._1__Final_Project___Incremental_Deliverables.Form1.resources
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\obj\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.csproj.GenerateResource.cache
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\obj\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\obj\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.AssemblyInfoInputs.cache
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\obj\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.AssemblyInfo.cs
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\obj\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.csproj.CoreCompileInputs.cache
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\obj\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.dll
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\obj\Debug\net8.0-windows\refint\Assignment 5.1  Final Project - Incremental Deliverables.dll
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\obj\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.pdb
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\obj\Debug\net8.0-windows\Assignment 5.1  Final Project - Incremental Deliverables.genruntimeconfig.cache
+C:\Users\assou\source\repos\Assignment 5.1  Final Project - Incremental Deliverables\obj\Debug\net8.0-windows\ref\Assignment 5.1  Final Project - Incremental Deliverables.dll
